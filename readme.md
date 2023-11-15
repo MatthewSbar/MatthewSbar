@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm Matthew Sbar, a Senior Software Engineer. Try not to judge my commit history graph, most of my work goes into private repositories.
+I'm Matthew Sbar, a Senior Software Engineer. I'm a React front-end enthusiast with a versatile background in full-stack development. I've independently developed and shipped a few well-loved web apps to accompany complex online games I've gotten sucked into over the years. Professionally, my background is in web product marketing & ecommerce - that includes both SaaS and phyisical goods, B2B and B2C, web stores and product information management systems.
 
 
 **I'm currently working on the following:**
