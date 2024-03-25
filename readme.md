@@ -5,10 +5,7 @@ I'm Matthew Sbar, a Senior Software Engineer. I'm a React front-end enthusiast w
 
 **I'm currently working on the following:**
 
-- 🪄 [WealthWizardsHQ.com](https://www.wealthwizardshq.com), a personal finance blog built on WordPress that makes heavy use of AI for content creation.
-
-- 🛴 [Looter Scooter](https://www.looterscooter.com), a very silly looter-shooter built in Unreal Engine 5 with an AWS backend. It's technically playable, but mostly a proof of concept at this point.
-
+- 🔡 RuneWords, a Scrabble-like RPG built in Godot.
 
 **Some of my retired projects:**
 
@@ -19,6 +16,10 @@ I'm Matthew Sbar, a Senior Software Engineer. I'm a React front-end enthusiast w
 - 🐱 [Matryoshka Simulator](https://matthewsbar.github.io/matryoshka-simulator/), a quick/fun item generation tool for the action RPG Path of Exile which simulates earning a reward which has a high degree of randomness.
 
 - ☑️ Lost Ark Checklist Generator, a tool that allows the creation of daily and weekly task lists for the MMO Lost Ark that would dynamically adjust depending on an individual's account progression. Unfortunately the repository and website have been lost to time, but it was a great tool.
+
+- 🪄 [WealthWizardsHQ.com](https://www.wealthwizardshq.com), a personal finance blog built on WordPress that makes heavy use of AI for content creation.
+
+- 🛴 [Looter Scooter](https://www.looterscooter.com), a very silly looter-shooter built in Unreal Engine 5 with an AWS backend. It's technically playable, but mostly a proof of concept at this point. Technically this is just on hiatus :)
 
 
 **Shameless plug:**
