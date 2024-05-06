@@ -5,7 +5,7 @@ I'm Matthew Sbar, a Senior Software Engineer. I'm a React front-end enthusiast w
 
 **I'm currently working on the following:**
 
-- 🔡 RuneWords, a Scrabble-like RPG built in Godot.
+- 🔡 RuneWords, a game that combines Scrabble with RPG and TCG elements. Backend written in Rust and a client built in Godot.
 
 **Some of my retired projects:**
 
@@ -19,7 +19,7 @@ I'm Matthew Sbar, a Senior Software Engineer. I'm a React front-end enthusiast w
 
 - 🪄 [WealthWizardsHQ.com](https://www.wealthwizardshq.com), a personal finance blog built on WordPress that makes heavy use of AI for content creation.
 
-- 🛴 [Looter Scooter](https://www.looterscooter.com), a very silly looter-shooter built in Unreal Engine 5 with an AWS backend. It's technically playable, but mostly a proof of concept at this point. Technically this is just on hiatus :)
+- 🛴 Looter Scooter, a very silly looter-shooter built in Unreal Engine 5 with an AWS backend. It had a working account system, an item generating system that was on par with the depth and complexity of a game like Path of Exile, and a variety of movement mechanics including wall-running, rail-grinding, sliding, gliding, and of course a grappling hook. This is on hiatus.
 
 
 **Shameless plug:**
