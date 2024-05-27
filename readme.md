@@ -17,8 +17,6 @@ I'm Matthew Sbar, a Senior Software Engineer. I'm a React front-end enthusiast w
 
 - ☑️ Lost Ark Checklist Generator, a tool that allows the creation of daily and weekly task lists for the MMO Lost Ark that would dynamically adjust depending on an individual's account progression. Unfortunately the repository and website have been lost to time, but it was a great tool.
 
-- 🪄 [WealthWizardsHQ.com](https://www.wealthwizardshq.com), a personal finance blog built on WordPress that makes heavy use of AI for content creation.
-
 - 🛴 Looter Scooter, a very silly looter-shooter built in Unreal Engine 5 with an AWS backend. It had a working account system, an item generating system that was on par with the depth and complexity of a game like Path of Exile, and a variety of movement mechanics including wall-running, rail-grinding, sliding, gliding, and of course a grappling hook. This is on hiatus.
 
 
