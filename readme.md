@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm Matthew Sbar, a Staff Software Engineer. I'm a React front-end enthusiast with a versatile background in full-stack development. Professionally, my background is in web product marketing & ecommerce - that includes both SaaS and physical goods, B2B and B2C, web stores and product information management systems. Indepdendently, I've developed and shipped a handful of well-loved, widely-used web apps that helped manage the complexity of different online games.
+I'm Matthew Sbar, a Staff Software Engineer. I'm a React front-end enthusiast with a versatile background in full-stack development. Professionally, my background is in web product marketing & ecommerce - that includes both SaaS and physical goods, B2B and B2C, web stores and product information management systems. Indepdendently, I've developed and shipped a handful of well-loved, widely-used web apps that helped manage the complexity of different online games, and when I'm not doing that, I'm usually solo-developing a game of my own.
 
 
 **I'm currently working on the following:**
@@ -17,7 +17,7 @@ I'm Matthew Sbar, a Staff Software Engineer. I'm a React front-end enthusiast wi
 
 - ☑️ Lost Ark Checklist Generator, a tool that allows the creation of daily and weekly task lists for the MMO Lost Ark that would dynamically adjust depending on an individual's account progression. Unfortunately the repository and website have been lost to time, but it was a great tool.
 
-- 🛴 Looter Scooter, a very silly looter-shooter built in Unreal Engine 5 with an AWS backend. It had a working account system, an item generating system that was on par with the depth and complexity of a game like Path of Exile, and a variety of movement mechanics including wall-running, rail-grinding, sliding, gliding, and of course a grappling hook. This is on hiatus.
+- 🛴 Looter Scooter, a very silly multiplayer looter-shooter built in Unreal Engine 5 with an AWS backend. It had a working account system, an item generation system that was on par with the depth and complexity of a game like Path of Exile, lots of dinosaurs to shoot, and a variety of movement mechanics including wall-running, rail-grinding, sliding, gliding, and, of course, a grappling hook.
 
 
 **Shameless plug:**
