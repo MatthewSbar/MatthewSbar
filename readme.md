@@ -5,7 +5,7 @@ I'm Matthew Sbar, a Staff Software Engineer. I'm a React front-end enthusiast wi
 
 **I'm currently working on the following:**
 
-- 🔡 RuneWords, a game that combines Scrabble with RPG and TCG elements. Backend written in Rust and a client built in Godot.
+- 🔡 RuneWords, a game that combines crossword games with RPG and TCG elements.
 
 **Some of my retired projects:**
 
